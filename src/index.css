@@ -6,7 +6,27 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.heading
+{
+  padding: 30px 0;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  background-color: #fff;
+}
+.head
+{
+  font-weight: bold;
+}
+.slot_machine
+{
+  text-align: center;
+  /* width: 200px; */
+  height: auto;
+  justify-content: center;
+  border-radius: 2px solid red;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
